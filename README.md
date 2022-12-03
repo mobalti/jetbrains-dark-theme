@@ -42,4 +42,4 @@ https://www.jetbrains.com/lp/mono/
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/mobalic/jetbrains-dark-theme/blob/main/LICENSE.txt) for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mobalti/jetbrains-dark-theme/blob/main/LICENSE.txt) for details.
