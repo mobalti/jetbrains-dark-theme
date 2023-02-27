@@ -1147,7 +1147,7 @@
         "meta.property-list.scss entity.name.tag",
         "variable.scss",
         "variable",
-        "meta.property-name.css support.type.property-name.css",
+        "meta.property-name support.type.property-name.css",
         "meta.at-rule.media.header.css",
         "meta.selector",
         "meta.property-value.css",
