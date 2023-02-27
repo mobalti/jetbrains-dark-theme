@@ -2,8 +2,10 @@
 
 All notable changes to the "jetbrains-dark-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 3.0.0
 
-## [Unreleased]
+### Minor Changes
 
-- Initial release
+- Added syntax highlight for `punctuation.section.embedded`
+- Added syntax highlight for `meta.tag.custom entity.name.tag`
+- Added syntax highlight for `support.class.component`
