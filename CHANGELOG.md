@@ -2,6 +2,12 @@
 
 All notable changes to the "jetbrains-dark-theme" extension will be documented in this file.
 
+## 3.1.0
+
+### Minor Changes
+
+- Added syntax highlight for `variable.argument.css`
+
 ## 3.0.0
 
 ### Minor Changes

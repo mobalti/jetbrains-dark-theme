@@ -1183,7 +1183,8 @@
         "meta.property-value.css variable.prop.css",
         "keyword.other.unit.fr.css",
         "source.css.scss meta.property-list.scss meta.property-value.scss support.type.property-name.css",
-        "meta.property-value.scss variable.scss"
+        "meta.property-value.scss variable.scss",
+         "meta.property-value.css variable.argument.css"
       ],
       "settings": {
         "foreground": "#E8BF6A",
