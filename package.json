@@ -2,7 +2,7 @@
   "name": "jetbrains-dark-theme",
   "displayName": "Jetbrains Dark Theme",
   "description": "A theme extension for Visual Studio Code based on Webstorm and Intellij IDE from Jetbrains.",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "publisher": "MoBalic",
   "repository": {
     "type": "git",
